@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @fluteink
-- 👀 I’m interested in java
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on java
+- 👀 I’m interested in Python,LLM
+- 🌱 I’m currently learning LLM,Langchain
 - 📫 How to reach me fluteink@qq.com
 - my website moxiaojun.xyz
 
